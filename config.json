@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperuender",
+        "uuid": 3889152,
+        "checksum": "aees59"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
